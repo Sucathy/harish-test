@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harish-test/static/css/main.78d11738.css",
+    "main.js": "/harish-test/static/js/main.c60c4330.js",
+    "static/js/453.c5eaf93b.chunk.js": "/harish-test/static/js/453.c5eaf93b.chunk.js",
+    "index.html": "/harish-test/index.html",
+    "main.78d11738.css.map": "/harish-test/static/css/main.78d11738.css.map",
+    "main.c60c4330.js.map": "/harish-test/static/js/main.c60c4330.js.map",
+    "453.c5eaf93b.chunk.js.map": "/harish-test/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d11738.css",
+    "static/js/main.c60c4330.js"
+  ]
+}
